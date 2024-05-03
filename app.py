@@ -1,5 +1,5 @@
 
-#python3 temp.py for 2 terminals
+#python3 app.py for 2 terminals
 import socket
 from socket import AF_INET, SOCK_STREAM
 
